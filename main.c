@@ -86,6 +86,8 @@ int main(void)
     
     }
 
+
+    //Imprimir Variável 
     for ( i = 0; i < 6; i++)
     {   
         printf("######################\n");
