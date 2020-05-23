@@ -1,6 +1,6 @@
 /*
 
-    Willian Ribeiro de Araujo - 042200004
+    
 */
 #include <stdio.h>
 #include <math.h>
