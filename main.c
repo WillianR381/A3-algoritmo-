@@ -1,11 +1,3 @@
-/*
-    Bruno de Abreu -  042200017
-    Willian Ribeiro - 042200004  
-    Helvécio Neto -   042200019
-
-    TOTAL DA MATRICULA - 60156902
-
-*/
 
 #include <stdio.h>
 #include <math.h>
